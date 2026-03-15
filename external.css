@@ -1,0 +1,74 @@
+body{
+font-family: Arial sans-serif;
+margin: 0;
+background: #ffe6f2;
+}
+header{
+background: #ff4da6;
+color: white;
+text-align: center;
+padding: 25px;
+}
+nav{
+background: #ff99cc;
+padding: 12px;
+text-align: !center;
+}
+nav a{
+color: lightblue;
+margin: 15px;
+text-decoration: none;
+font-weight: bold;
+font-size: 18px;
+}
+nav a:hover{
+color: #800040;
+}
+section{
+background: white;
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+box-shadow: 0px 0px 10px lightgray;
+}
+table{
+width: 100px;
+border-collapse: collapse;
+margin-top: 15px;
+}
+table, th, td{
+border: 1px solid #ff99cc;
+padding: 10px;
+text-align: center;
+}
+th{
+background: #ffb3d9;
+}
+banner{
+background-image: url("morija.jpg");
+background-size: cover;
+background-position: center;
+height: 350px;
+color: lightblue;
+text-align: center;
+padding-top: 120px
+}
+banner h1{
+font-size: 45px;
+}
+banner p{
+font-size: 20px;
+}
+background-image: url(image.jpgs);{
+background position:center
+width: 100%;
+border-radius: 10px;
+margin-top: 10px;
+}
+footer{
+background: #ff4da6;
+color: lightblue;
+text-align: center;
+padding: 12px;
+margin-top: 20px;
+}

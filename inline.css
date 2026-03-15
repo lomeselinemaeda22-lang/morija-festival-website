@@ -1,0 +1,39 @@
+body{
+margin: 0;
+font-family: Arial sans-serif;
+}
+cover{
+height: 100vh;
+background-image: url("lesotho.jpg");
+background-size: cover;
+background-position: center;
+text-align: center;
+color: white;
+padding: 200px;
+}
+cover{
+font-size: 50px;
+}
+nav a{
+display: inline-block;
+margin: 15px;
+padding: 10px 20px;
+background-color: darkgreen;
+color: white;
+text-decoration: none;
+border-radius: 5px;
+}
+nav a:hover{
+background-color: orange;
+}
+img{
+border-radius: 10px;
+margin-top: 10px;
+}
+homepage-video{
+width: 100px;
+height: auto;
+border-radius: 10px;
+margin-top: 10px;
+object-fit: cover;
+}
